@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @dimaevan
 - 😶 Real name Dmitriy Kazakov
-- 📫 Contacts: [Telegram](https://t.me/dimaevan) [email](dimaevan@ya.ru)
+- 📫 Contacts: [Telegram](https://t.me/dimaevan) [e-mail](dimaevan@ya.ru)
