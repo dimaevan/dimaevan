@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @dimaevan
 - 😶 Real name Dmitriy Kazakov
 - 📫 Contacts: [Telegram](https://t.me/dimaevan) [e-mail](dimaevan@ya.ru)
-- ![Codewars](https://www.codewars.com/users/dimaevan/badges/micro)
+- [![Codewars](https://www.codewars.com/users/dimaevan/badges/micro)](https://www.codewars.com/users/dimaevan)
